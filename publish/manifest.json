@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.a0ba80003b3cf0f275a47885c5bf31c0.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.0240fb21e4a86ec97b70a10a0be82bb6.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.264f45a5491b54cd9b7d552bae101ba3.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.0817ba0c13f4f392cb704d190429c938.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.bcdc902fdc2d0d836de31a270fca2e7d.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "wavecommerce",
+  "short_name": "wavecommerce",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "wavecommerce",
+  "background_color": "#c0f0f4",
+  "theme_color": "#9bbdf1"
+}
